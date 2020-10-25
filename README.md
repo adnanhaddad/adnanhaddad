@@ -9,21 +9,21 @@ I'm Adnan, a computer science student at RWTH Aachen University. Learing new Tec
 
 
 ### Technologies and Tools 💻
-![](https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=white&logoColor=007396)
+![](https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=white&logoColor=red)
 ![](https://img.shields.io/static/v1?label=&message=Dart&style=flat-square&logo=dart&color=white&logoColor=007396)
 ![](https://img.shields.io/static/v1?label=&message=Powershell&style=flat-square&logo=powershell&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Jenkins&style=flat-square&logo=jenkins&color=white)
 ![](https://img.shields.io/static/v1?label=&message=chocolatey&style=flat-square&logo=chocolatey&color=white)
-![](https://img.shields.io/static/v1?label=&message=packer&style=flat-square&logo=packer&color=white)
-![](https://img.shields.io/static/v1?label=&message=Angular&style=flat-square&logo=Angular&color=white)
+![](https://img.shields.io/static/v1?label=&message=Angular&style=flat-square&logo=Angular&color=white&logoColor=red)
 ![](https://img.shields.io/static/v1?label=&message=Spring&style=flat-square&logo=Spring&color=white)
-![](https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=Typescript&color=white)
+![](https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=Typescript&color=white&logoColor=red)
 ![](https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Android&style=flat-square&logo=android&color=white)
 ![](https://img.shields.io/static/v1?label=&message=flutter&style=flat-square&logo=flutter&color=white&logoColor=02569B)
 ![](https://img.shields.io/static/v1?label=&message=OracleSQL&style=flat-square&logo=oracle&color=white&logoColor=f80000)
 ![](https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&color=white)
 ![](https://img.shields.io/static/v1?label=&message=GitHub&style=flat-square&logo=github&color=white&logoColor=black)
+![](https://img.shields.io/static/v1?label=&message=Firebase&style=flat-square&logo=firebase&color=white)
 
 
 ### GitHub Stats 📈
