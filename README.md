@@ -9,10 +9,16 @@ I'm Adnan, a computer science student at RWTH Aachen University. Learing new Tec
 
 
 ### Technologies and Tools 💻
-![](https://img.shields.io/static/v1?label=&message=Python&style=flat-square&logo=python&color=white)
-![](https://img.shields.io/static/v1?label=&message=Powershell&style=flat-square&logo=python&color=white)
-![](https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=white&logoColor=007396)
+![](https://img.shields.io/static/v1?label=&message=Dart&style=flat-square&logo=java&color=white&logoColor=007396)
+![](https://img.shields.io/static/v1?label=&message=Powershell&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=Jenkins&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=chocolatey&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=packer&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=Angular&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=Spring&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=python&color=white)
+![](https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Android&style=flat-square&logo=android&color=white)
 ![](https://img.shields.io/static/v1?label=&message=flutter&style=flat-square&logo=flutter&color=white&logoColor=02569B)
 ![](https://img.shields.io/static/v1?label=&message=OracleSQL&style=flat-square&logo=oracle&color=white&logoColor=f80000)
@@ -21,5 +27,5 @@ I'm Adnan, a computer science student at RWTH Aachen University. Learing new Tec
 
 
 ### GitHub Stats 📈
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhaddad&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhaddad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhaddad&show_icons=true&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhaddad&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
