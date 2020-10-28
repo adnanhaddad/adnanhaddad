@@ -61,6 +61,12 @@ I'm Adnan, a computer science student at **RWTH Aachen University**. Learing new
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=adnanhaddad&theme=dark&show_icons=true" width=350/></a>
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itswajdy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
 <h2>Contact me!</h2>
 
 <a href="mailto:itsadnanhaddad@gmail.com">
